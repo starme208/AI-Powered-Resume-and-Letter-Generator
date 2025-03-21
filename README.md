@@ -1,5 +1,5 @@
-### AI-Powered Resume and Cover Letter Generator Developed By Jillani SoftTech 😎
-This repository hosts the AI-Powered Resume and Cover Letter Generator, a cutting-edge tool developed by **Jillani SoftTech** and spearheaded by our Sr.Data Scientist and ML Engineer, M.G.Jillani Mughal. The application leverages machine learning and natural language processing techniques to assist users in creating tailored resumes and cover letters.
+### AI-Powered Resume and Cover Letter Generator Developed By StarMe 😎
+This repository hosts the AI-Powered Resume and Cover Letter Generator, a cutting-edge tool developed by **StarMe** and spearheaded by our Sr.Data Scientist and ML Engineer. The application leverages machine learning and natural language processing techniques to assist users in creating tailored resumes and cover letters.
 
 # Features
 . Custom Resume Generation: Generate personalized resumes based on user input.
@@ -15,7 +15,7 @@ To set up the AI-Powered Resume and Cover Letter Generator, follow these steps:
 
 # Clone the repository:
 ```
-git clone https://github.com/MGJillaniMughal/AI-Powered-Resume-and-Cover-Letter-Generator.git
+git clone https://github.com/starme208/AI-Powered-Resume-and-Cover-Letter-Generator.git
 ```
 # Navigate to the project directory:
 ```
@@ -35,9 +35,6 @@ To use the application:
 
 # Contributing
 We welcome contributions to this project! Please read the CONTRIBUTING.md file for guidelines on how to submit contributions.
-
-# Credits
-This project is developed by **M.G.Jillani Mughal at Jillani SoftTech**. Special thanks to all contributors and users.
 
 # License
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
